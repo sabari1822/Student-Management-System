@@ -1,0 +1,15 @@
+# ── Frontend ──────────────────────────────────
+student-management-ui/node_modules/
+student-management-ui/dist/
+student-management-ui/.env
+student-management-ui/.env.local
+
+# ── Backend ───────────────────────────────────
+student_management_system/target/
+student_management_system/src/main/resources/application.properties
+
+# ── OS / IDE ──────────────────────────────────
+.DS_Store
+.idea/
+*.iml
+*.class
